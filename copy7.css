@@ -36,6 +36,10 @@ nav .menu li {
   margin-right: 14px;
 }
 
+nav .login li {
+  margin-left: 14px;
+}
+
 li {
   list-style: none;
 }
